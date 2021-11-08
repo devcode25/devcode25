@@ -1,15 +1,10 @@
 
 - 👋 Olá, sou @ devcode25
-- 👀 Estou interessado em ...
-- 🌱 Atualmente estou aprendendo ...
-- 💞️ Estou procurando colaborar em ...
-- 📫 Como chegar até mim ..
+- 👀 Estou interessado em ... Lecionar conteúdo de programação.
+- 🌱 Atualmente estou aprendendo ... Javascript, Node.js, Mongo
 
-### Tereza
 
-## tereza
 
-# tereza
 
 
 
