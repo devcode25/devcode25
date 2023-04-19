@@ -3,6 +3,10 @@
 - 👀 Estou interessado em ... Lecionar conteúdo de programação.
 - 🌱 Atualmente estou aprendendo ... Javascript, Node.js, Mongo
 
+*************
+**Contador De Visitas**
+
+![VisitorCount](https://profile-counter.glitch.me/{devcode25}/count.svg)
 
 
 
