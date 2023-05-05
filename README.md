@@ -1,4 +1,6 @@
-# [Tereza Oliveira] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Tereza Oliveira] 
+
+![storm-xmen](https://user-images.githubusercontent.com/93724227/236525363-484b2022-873f-4d68-a633-3a87212363cc.gif)
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
