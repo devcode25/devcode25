@@ -2,7 +2,7 @@
 
 ![storm-xmen](https://user-images.githubusercontent.com/93724227/236525363-484b2022-873f-4d68-a633-3a87212363cc.gif)
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Tereza Oliveira</strong>, <strong>Sou professora e programadora de software</strong>. 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Javascript, Typescript, NodeJS, MongoDB, HTML5, CSS3 e React </strong> 
 - 💬 Pergunte-me sobre: <strong>Programação, música e café</strong>
