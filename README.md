@@ -1,5 +1,8 @@
 # [Tereza Oliveira] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
+
+![goku](https://i.gifer.com/C73d.gif)
+
 Eu sou <strong>Tereza Oliveira</strong>, <strong>sou estudante de desenvolvimento full-stack</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Javascript</strong> 
