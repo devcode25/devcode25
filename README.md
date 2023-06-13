@@ -1,14 +1,44 @@
-# [Tereza Oliveira] 
+# [Tereza Oliveira] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-![storm-xmen](https://user-images.githubusercontent.com/93724227/236525363-484b2022-873f-4d68-a633-3a87212363cc.gif)
+Eu sou <strong>Tereza Oliveira</strong>, <strong>sou estudante de desenvolvimento full-stack</strong> 👨🏻‍💻 
 
-Eu sou <strong>Tereza Oliveira</strong>, <strong>Sou professora e programadora de software</strong>. 👨🏻‍💻 
+- 🚀 Atualmente estou aprendendo: <strong>Javascript</strong> 
+- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
+- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
 
-- 🚀 Atualmente estou aprendendo: <strong>Javascript, Typescript, NodeJS, MongoDB, HTML5, CSS3 e React </strong> 
-- 💬 Pergunte-me sobre: <strong>Programação, música e café</strong>
+<div align="center">
 
-![devcode25's Stats](https://github-readme-stats.vercel.app/api?username=devcode25&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+  <a href="#" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
-![devcode25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devcode25&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+  <a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
