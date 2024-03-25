@@ -8,6 +8,8 @@
 
 <p>Trabalhando no {Senac}<br/> Eu sou desenvolvedora {Back-End}</p>
 
+![VisitorCount](https://profile-counter.glitch.me/{devcode25}/count.svg)
+
 
 
 
